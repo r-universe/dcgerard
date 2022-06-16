@@ -1,0 +1,22 @@
+[
+  {
+    "package": "hwep",
+    "oncran": true
+  },
+  {
+    "package": "ldsep",
+    "oncran": true
+  },
+  {
+    "package": "seqgendiff",
+    "oncran": true
+  },
+  {
+    "package": "tensr",
+    "oncran": true
+  },
+  {
+    "package": "updog",
+    "oncran": true
+  }
+]
