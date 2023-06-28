@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hwep"]
 	path = hwep
 	url = https://github.com/dcgerard/hwep
-	shallow = true
-	registered = true
 [submodule "ldsep"]
 	path = ldsep
 	url = https://github.com/dcgerard/ldsep
-	shallow = true
-	registered = true
 [submodule "seqgendiff"]
 	path = seqgendiff
 	url = https://github.com/dcgerard/seqgendiff
-	shallow = true
-	registered = true
 [submodule "tensr"]
 	path = tensr
 	url = https://github.com/dcgerard/tensr
-	shallow = true
-	registered = true
 [submodule "updog"]
 	path = updog
 	url = https://github.com/dcgerard/updog
-	shallow = true
-	registered = true
