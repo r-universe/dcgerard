@@ -8,6 +8,9 @@
 [submodule "ldsep"]
 	path = ldsep
 	url = https://github.com/dcgerard/ldsep
+[submodule "segtest"]
+	path = segtest
+	url = https://github.com/dcgerard/segtest
 [submodule "seqgendiff"]
 	path = seqgendiff
 	url = https://github.com/dcgerard/seqgendiff
